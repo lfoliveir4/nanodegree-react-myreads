@@ -4,7 +4,7 @@
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
     "react-responsive-select": "^4.0.1",
-    "react-router-dom": "^4.3.1",
+    "react-router-dom": "^7.5.2",
     "react-select": "^1.2.1",
     "react-transition-group": "^2.2.1"
   },
