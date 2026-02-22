@@ -10,7 +10,7 @@
   },
   
   "devDependencies": {
-    "react-scripts": "1.1.4"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "deploy": "npm run build && aws s3 sync build/ s3://lee.my-reads --acl public-read",
